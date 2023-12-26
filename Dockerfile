@@ -1,4 +1,4 @@
-FROM nginx1
+FROM nginx
 
 
 # Copia un archivo de configuración personalizado al contenedor
